@@ -1,6 +1,6 @@
 # TrashNet Image Classification (Streamlit Deployment)
 
-Aplikasi ini merupakan implementasi sistem **klasifikasi sampah berbasis citra** menggunakan dataset **TrashNet**. Model yang digunakan adalah **MobileNetV3 Large** yang telah dioptimasi menggunakan **Structured Weight Pruning** dan **Post-Training Quantization (PTQ)**, kemudian dikonversi ke format **TensorFlow Lite (.tflite)** menggunakan **FP16** dan dideploy sebagai aplikasi web menggunakan **Streamlit**.
+Aplikasi ini merupakan implementasi sistem **klasifikasi sampah berbasis citra** menggunakan dataset **TrashNet**. Model yang digunakan adalah **MobileNetV3 Large** yang telah dioptimasi menggunakan **Structured Weight Pruning** dan **Post-Training Quantization (PTQ)**, kemudian dikonversi ke format **TensorFlow Lite (.tflite)** dan dideploy sebagai aplikasi web menggunakan **Streamlit**.
 
 ---
 
